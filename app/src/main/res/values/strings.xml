@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SendLater</string>
+    <string name="accessibility_description">Lets SendLater tap the Send button in WhatsApp at the time you scheduled. It only looks at WhatsApp windows.</string>
+</resources>
